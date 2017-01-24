@@ -1,1 +1,1 @@
-# git-svor
+#Git verkefni
