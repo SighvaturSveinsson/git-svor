@@ -13,10 +13,15 @@
 		
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone
+		klónar Repository (virkar eins og copy)
 	git log
+		sýnir hvaða skrám var breytt
 	git status
+		Sýnir leiðir sem hafa mismuni milli index skrá og núverandi HEAD commit, slóðir sem hafa mismuni milli working tree og index skrá, og leiðir í working tree sem eru ekki raktar
 	git diff
+		Sýna breytingar milli skráa
 	git checkout
+		er notað til að velja aðra útgáfu af skránni
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
