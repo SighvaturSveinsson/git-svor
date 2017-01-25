@@ -25,8 +25,12 @@
 
 3. Hver er munurinn á eftirfarandi git skipunum:
 	a) git diff 
+		Sýna breytingar milli skráa
 	b) git diff --staged 
+		relative to the named
+		Þetta er notað til að skoða breytingar sem þú stageaðir fyrir næsta commit relative 
 	c) git diff commit1 commit2
+		Sýnir breytingar í repository eða völdu setti af commits
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 
