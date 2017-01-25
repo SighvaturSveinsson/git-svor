@@ -46,6 +46,7 @@
 		Repositary (git directory) er þar sem Git geymir metadata og object database fyrir verkefnið þitt
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
+		Þegar þú ert að vinna í verkefni sem er nú þegar með nokkur commits.
 
 9.	Hver fann upp GIT?
 
