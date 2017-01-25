@@ -52,3 +52,4 @@
 		Linus Torvalds, höfundur Linux
 
 10.	Hvar er GIT helst notað?
+		í forritun
