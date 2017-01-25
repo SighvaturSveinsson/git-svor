@@ -39,8 +39,11 @@
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 		Eins oft og hægt er, betra að gera fleiri commits heldur en of fá
-		
+
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+		þú breytir skrám í working directoy
+		þú stage-ar skrárnar og bætir snapshots af þeim í þitt staging area.
+		Repositary (git directory) er þar sem Git geymir metadata og object database fyrir verkefnið þitt
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
