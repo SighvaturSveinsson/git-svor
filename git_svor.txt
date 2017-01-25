@@ -35,6 +35,7 @@
 		Útgáfustýring er kerfi sem skráir breytingar á skrám eða hóp af skrám yfir tíma þannig að þú getur náð í aðrar útgáfur seinna
 		
 5.	Hverjir eru helstu kostir við að nota GIT?
+		Git er ótrúlega hratt, það er mjög efficient með stór verkefni, og það er með ótrúlegt branching system fyrir non-linear hönnun
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
 
