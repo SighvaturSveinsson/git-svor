@@ -49,5 +49,6 @@
 		Þegar þú ert að vinna í verkefni sem er nú þegar með nokkur commits.
 
 9.	Hver fann upp GIT?
+		Linus Torvalds, höfundur Linux
 
 10.	Hvar er GIT helst notað?
