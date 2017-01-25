@@ -10,7 +10,7 @@
 		sýnir okkur í hvaða möppu við erum í
 	mkdir
 		gerir nýja möppu
-		
+
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
 	git clone
 		klónar Repository (virkar eins og copy)
@@ -27,13 +27,13 @@
 	a) git diff 
 		Sýna breytingar milli skráa
 	b) git diff --staged 
-		relative to the named
-		Þetta er notað til að skoða breytingar sem þú stageaðir fyrir næsta commit relative 
+		Þetta er notað til að skoða breytingar sem þú stageaðir fyrir næsta commit 
 	c) git diff commit1 commit2
 		Sýnir breytingar í repository eða völdu setti af commits
 
-4. 	Hvað er útgáfustýring (e.version control)? 
-
+4. 	Hvað er útgáfustýring (e.version control)?
+		Útgáfustýring er kerfi sem skráir breytingar á skrám eða hóp af skrám yfir tíma þannig að þú getur náð í aðrar útgáfur seinna
+		
 5.	Hverjir eru helstu kostir við að nota GIT?
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
